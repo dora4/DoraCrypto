@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_wallet_type">
+        <item>@string/type_imtoken</item>
+        <item>@string/type_ledger</item>
+    </string-array>
+</resources>

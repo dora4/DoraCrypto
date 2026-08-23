@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255506501663",
+    "project_id": "dora-crypto-tools",
+    "storage_bucket": "dora-crypto-tools.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255506501663:android:f8c8d8e370698f72a6852a",
+        "android_client_info": {
+          "package_name": "com.doracrypto.crypto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC576tlC_-4uLxE6rdCET1nvS8HXdSdIgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

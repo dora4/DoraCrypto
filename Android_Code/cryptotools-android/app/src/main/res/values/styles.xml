@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <style name="WalletEditTextStyle" parent="@style/Widget.AppCompat.EditText">
+        <item name="android:singleLine">true</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:imeOptions">actionNext</item>
+        <item name="android:gravity">top|left</item>
+        <item name="android:textCursorDrawable">@drawable/shape_input_cursor</item>
+        <item name="android:digits">abcdefghijklmnopqrstuvwxyz</item>
+    </style>
+</resources>
