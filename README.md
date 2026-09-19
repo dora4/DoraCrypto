@@ -1,20 +1,24 @@
-#### 朵拉加密
+# Dora Crypto
 
-##### 介绍
+## Introduction
 
-朵拉加密是一个使用区块链技术，保障用户隐私数据安全的平台。
+Dora Crypto is a platform leveraging blockchain technology to safeguard users’ private data.
 
-##### 旗下品牌
+## Sub‑brands
 
-朵拉加密作为一级品牌，旗下包括朵拉盒子（Dora Box）和朵拉云（Dora Cloud）两个分支。朵拉盒子用于隐私数据的存储，而
-朵拉云既可用于隐私数据的存储，也可以用于普通文件的存储。简而言之，朵拉盒子也使用朵拉云的存储空间，共用存储空间限额。
-使用朵拉盒子APP产生的隐私数据小文件，会直接存入朵拉云，几乎不会占用太大存储空间，只是受存储文件数的限制。
+As a primary‑level brand, Dora Encryption encompasses two sub‑products: Dora Box and Dora Cloud. Dora Box is designed for private‑data storage, while Dora Cloud supports storage for both private data and regular files. In short, Dora Box utilizes the storage space of Dora Cloud, and they share the same storage quota.
 
-##### 开源加密APP
+Small private‑data files generated within the Dora Box app are saved directly to Dora Cloud. These files barely consume storage capacity, yet they are subject to limits on the total number of stored files.
 
-包括iOS和Android平台，可以自行修改源代码，指定加密密钥，并打包成软件包，对隐私数据进行底层加密。
+## Open‑Source Encrypted App
 
-##### 如何使用
+It is available for both iOS and Android. Users may modify its source code, specify encryption keys, and build custom software packages to implement low‑level encryption for private data.
 
-使用者需要准备一个Web3冷钱包或硬件钱包，并注册Dora Chat（ http://dorachat.com ）的账号，然后才可以使用ERC20
-地址登录Dora系列产品。
+## Usage Instructions
+
+Users need to prepare a Web3 cold wallet or hardware wallet and register an account for Dora Chat ([http://dorachat.com](http://dorachat.com)). An ERC‑20 address is then required to log in to Dora‑series products.
+
+## Download Links
+
+[Dora Box] [https://www.pgyer.com/dorabox](https://www.pgyer.com/dorabox)‑android
+[Dora Cloud] [https://www.pgyer.com/doracloud](https://www.pgyer.com/doracloud)
