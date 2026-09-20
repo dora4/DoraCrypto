@@ -2,8 +2,8 @@
 
 ## Features
 
-- Data encryption
-- Data decryption
+- Text encryption
+- Text decryption
 - File encryption
 - File decryption
 - Time lock
