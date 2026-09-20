@@ -13,6 +13,7 @@
 - Stablecoin payment
 - Store data locally on mobile phones
 - Back up mobile local data to cloud archives
+- One-click archive health check
 - Archive version chain
 - Soft deletion of archives
 - Archive recovery
