@@ -35,3 +35,11 @@ A: Payments can be made using USDT on the Polygon chain.
 
 A: The time lock in Dora Box is a data lock that controls the time window during which data is 
 visible. Data can only be viewed within the visibility time window defined in the rules.
+
+**Q4: What device types are supported?**
+
+A: Android and iOS versions have been developed. However, only the Android version has been launched for market validation at present, while the iOS version is under parallel development.
+
+**Q5: Is data shared across different platforms?**
+
+A: Yes, because the same cryptographic engine is used at the underlying layer. Data encrypted on Android can be decrypted on iOS, and vice versa.
