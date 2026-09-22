@@ -22,4 +22,11 @@ only a few hundred KB, and any remaining capacity can be used to back up other f
 
 **Q3: Why can't I log in to my Dora Chat account?**
 
-A: Please check your network connection. Use a network acceleration tool or access it on a network outside mainland China.
+A: Please check your network connection. Use a network acceleration tool or access it on a network 
+outside mainland China.
+
+**Q4: Will data backed up to Dora Cloud be lost?**
+
+A: Generally not. Data is automatically backed up to multiple storage sources with a retry mechanism
+for failures. Some storage sources are not controlled by Dora Cloud, such as on-chain cloud, and user
+access to data does not go through Dora Cloud.
