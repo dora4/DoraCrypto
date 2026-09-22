@@ -19,3 +19,7 @@ A: The official upload limit is 4 GB per file.
 
 A: Dora Cloud is mainly designed to back up DPK files from Dora Box. A single DPK file is typically
 only a few hundred KB, and any remaining capacity can be used to back up other files.
+
+**Q3: Why can't I log in to my Dora Chat account?**
+
+A: Please check your network connection. Use a network acceleration tool or access it on a network outside mainland China.
