@@ -27,6 +27,7 @@ outside mainland China.
 
 **Q4: Will data backed up to Dora Cloud be lost?**
 
-A: Generally not. Data is automatically backed up to multiple storage sources with a retry mechanism
-for failures. Some storage sources are not controlled by Dora Cloud, such as on-chain cloud, and user
-access to data does not go through Dora Cloud.
+A: Generally not. Data is automatically backed up to multiple storage sources with a failure retry 
+mechanism. Even so, we recommend users maintain additional backups on their own. Some storage 
+sources are not controlled by Dora Cloud, such as on-chain cloud, and user access to data does not 
+pass through Dora Cloud.
