@@ -20,6 +20,6 @@ Users need to prepare a Web3 cold wallet or hardware wallet and register an acco
 
 ## Download Links
 
-[Dora Box] [https://www.pgyer.com/dorabox](https://www.pgyer.com/dorabox)‑android
+[Dora Box] https://www.pgyer.com/dorabox-android
 
-[Dora Cloud] [https://www.pgyer.com/doracloud](https://www.pgyer.com/doracloud)
+[Dora Cloud] https://www.pgyer.com/doracloud
