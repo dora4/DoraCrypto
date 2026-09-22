@@ -11,10 +11,11 @@ time-limited storage capacity. Files stored in Dora Cloud are indexed by ERC-20 
 
 ## FAQs
 
-**Q1:最大支持多大的文件？**
+**Q1: What is the maximum file size supported?**
 
-A:官方限制最大可以上传4G大小的文件。
+A: The official upload limit is 4 GB per file.
 
-**Q2:为什么除了存储容量限制外，还有文件数量的限制？**
+**Q2: Why is there a limit on the number of files in addition to the storage capacity limit?**
 
-A:因为朵拉云主要是用于备份朵拉盒子中的DPK文件的，一个DPK文件一般才几百KB，多余的容量才用于备份其它文件。
+A: Dora Cloud is mainly designed to back up DPK files from Dora Box. A single DPK file is typically
+only a few hundred KB, and any remaining capacity can be used to back up other files.
