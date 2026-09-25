@@ -90,11 +90,6 @@ Dora Box supports dual partitions: a regular zone and a private zone. Store ever
 
 The two partitions use separate encryption policies and access pathways. A compromise in one partition will not affect the other at all.
 
-**4. Camouflaged entry + emergency data wipe**
-Dora Box features a camouflaged entry. To outside observers, it may look like an ordinary calculator or notepad app. Only after entering a specific password or gesture can you access the real encrypted space.
-
-In extreme scenarios (such as coercion), one-tap emergency wipe is available: all encrypted data gets erased instantly and cannot be recovered.
-
 ### Who actually needs Dora Box?
 
 Honestly, not everyone does.
