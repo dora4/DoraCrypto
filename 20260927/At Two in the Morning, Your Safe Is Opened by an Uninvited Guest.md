@@ -1,6 +1,6 @@
 # At Two in the Morning, Your Safe Is Opened by an Uninvited Guest
 
-**When AI Learns to Pick Locks, Your Private Data Needs a Real Lock**
+**——When AI Learns to Pick Locks, Your Private Data Needs a Real Lock**
 
 ---
 
