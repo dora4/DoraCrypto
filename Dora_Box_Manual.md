@@ -43,3 +43,7 @@ A: Android and iOS versions have been developed. However, only the Android versi
 **Q5: Is data shared across different platforms?**
 
 A: Yes, because the same cryptographic engine is used at the underlying layer. Data encrypted on Android can be decrypted on iOS, and vice versa.
+
+**Q6: What is the purpose of the password during encryption and decryption?**
+
+A: The password serves as the final line of defense. In extreme scenarios where an attacker obtains your encrypted data and the DPK private key file, decryption will still be impossible without the password. The password participates in generating both the encrypted data and the DPK private key file. Even a single character difference in the password will result in completely different encrypted outputs.
