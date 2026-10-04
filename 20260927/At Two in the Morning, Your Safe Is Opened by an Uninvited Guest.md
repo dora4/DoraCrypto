@@ -60,8 +60,6 @@ Dora Box’s encryption architecture has several core features:
 
 **Non-simulable access behavior.** Dora Box authentication relies not only on passwords and device fingerprints, but also on locally stored hashed biometric features unique to your device. Even if attackers perfectly replicate all your login behaviors, they cannot pass verification without physical access to your device.
 
-**Self-destruct mechanism.** After repeated failed verification attempts, the local key gets erased. Your data is not lost (the ciphertext remains on the server), but until you complete full identity recovery from your own device, the data is nothing more than meaningless random bytes.
-
 ## Robots Race in Hangzhou — Is Your Data Secure?
 
 This week, a humanoid robot competition is underway in Hangzhou. Humanoid robots run nonstop 6-hour shuttle races. They autonomously perceive their surroundings, make decisions, and get back on their feet after falling.

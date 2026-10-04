@@ -63,8 +63,6 @@ DoraCloud is a storage solution built for private personal data and ordinary fil
 
 **Client-side encryption:** Files are encrypted locally on your device before upload. What gets sent to the cloud is already ciphertext. Even if cloud servers are compromised, attackers only get unintelligible garbled data.
 
-**Sharded storage:** Large files are split into fragments and scattered across different nodes. Compromise of a single node cannot reconstruct the complete original file.
-
 **Zero-knowledge proof:** The server never holds user encryption keys. That means even DoraCloud’s own operations team cannot view your stored content. Truly ensuring **only you can access your data.**
 
 **Local-first design:** Full local storage mode is available. For highly sensitive data, you may choose not to upload it to the cloud at all and keep it only within local encrypted containers. The cloud serves merely as encrypted backup.

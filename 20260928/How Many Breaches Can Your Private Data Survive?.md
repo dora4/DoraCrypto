@@ -68,7 +68,6 @@ One key focus of the 2026 special campaign on personal information protection is
 - **Isolated storage**: Encrypted data resides in an independent encrypted container, fully separated from the rest of the system
 - **Camouflaged entry**: Dora Box supports custom fake icons and app names to hide the privacy vault from your app list
 - **Emergency data wipe**: In extreme scenarios, one-click destruction of the encrypted container (keys erased; data unrecoverable)
-- **Auto-capture**: Photos and screenshots can be automatically routed into encrypted storage, preventing sensitive images from landing in the system photo album
 
 ### What It Does NOT Do
 

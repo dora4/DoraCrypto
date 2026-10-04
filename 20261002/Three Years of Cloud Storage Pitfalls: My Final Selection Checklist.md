@@ -76,7 +76,6 @@ After three years of trial and error, I’ve put together a checklist for my ide
 
 - End-to-end encryption or zero-knowledge proof, so the platform cannot view your file contents
 - Partitioned storage separating private data from ordinary files, with tailored encryption policies for different sensitivity levels
-- Shareable links configurable with passwords, expiry dates and access count limits
 - WebDAV support for easy integration with other tools
 
 ### Dealbreakers (Disregard any service with these flaws)

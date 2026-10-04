@@ -111,7 +111,6 @@ You need **DoraBox**.
 - **Isolated Storage**: Encrypted data resides in an independent container, fully separated from the rest of your system.
 - **Disguised Entry Point**: Set a fake app icon and name. Anyone borrowing your phone will never know this is a secure vault.
 - **Emergency Wipe**: One tap to destroy the encrypted container in extreme situations; once keys are erased, data cannot be recovered.
-- **Auto Capture**: Photos and screenshots can be automatically saved into encrypted storage instead of your system photo gallery.
 
 ### What it will NOT do:
 

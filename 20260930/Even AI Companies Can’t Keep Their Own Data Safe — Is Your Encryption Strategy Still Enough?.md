@@ -97,9 +97,6 @@ Each encrypted container uses a separate AES-256 key. Keys for different contain
 **Local encryption engine.**
 All encryption and decryption operations run locally on the user’s device. Data becomes ciphertext before leaving the device and is only decrypted after returning to the device. At no point in its lifecycle does plaintext appear on any external system.
 
-**Metadata protection.**
-DoraBox does not log which container you access, when you access it, or your location. Containers can be hidden entirely — hidden containers are invisible in normal file browsing and can only be accessed with a specific key and authentication method.
-
 **Multi-factor authentication.**
 Supports three-factor authentication: password + biometrics + hardware key. Even if your password leaks, attackers cannot open the container without the biometric credential or physical hardware key.
 
